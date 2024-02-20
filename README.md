@@ -1,5 +1,4 @@
 # Ball-Beam
-Ball &amp; Beam PID Control project developed as part of system &amp; control course.
 
 This project in Systems and Control involves designing and implementing a PID controller and Lead-Lag compensator for a given 4th order feed-forward transfer function. The objective is to improve system responses, both transient and steady state. The project includes steps such as analyzing the system, designing PID and Lead-Lag controllers using MATLAB, building analog circuits, hardware implementation, and documentation. The evaluation comprises demonstrating hardware, explaining design choices, and submitting a comprehensive project report. 
 
