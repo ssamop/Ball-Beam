@@ -34,9 +34,13 @@ Lead-Lag compensator design, implementation, and analysis.
 Hardware implementation details.
 Results and conclusions.
 
-## Hardware components:
+## Hardware Components:
 
 ![WhatsApp Image 2024-02-20 at 21 04 20_1d527a18](https://github.com/ssamop/Ball-Beam/assets/76449196/365ebfe8-4675-4e14-aeb8-2d4976bb8f96)
 ![WhatsApp Image 2024-02-20 at 21 04 21_f8588e37](https://github.com/ssamop/Ball-Beam/assets/76449196/a803793b-deab-4a0e-8dec-671791eca19c)
+
+## Circuit Connections:
+
+![circuit](https://github.com/ssamop/Ball-Beam/assets/76449196/d951fb53-c936-4e1e-b1cb-93421d4361cc)
 
 
